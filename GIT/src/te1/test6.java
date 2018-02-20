@@ -6,6 +6,10 @@ public class test6 {
 	System.out.println("1111111122222");
 	
 	
+	
+	
+	
+	
 }
 }
   
