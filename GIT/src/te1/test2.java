@@ -7,6 +7,7 @@ public class test2 {
 		System.out.println("222");
 		System.out.println("333");
 		System.out.println("333");
+		System.out.println("333");
 
 	}
 
