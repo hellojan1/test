@@ -9,6 +9,8 @@ public class test5 {
 		
 		String te = "aaa";
 		System.out.println(te);
+		
+		System.out.println("11111");
 	}
 
 }
