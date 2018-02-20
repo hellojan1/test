@@ -6,6 +6,9 @@ public class test5 {
 		System.out.println("asdgasdg");
 		System.out.println("test");
 		System.out.println("test555");
+		
+		String te = "aaa";
+		System.out.println(te);
 	}
 
 }
